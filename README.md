@@ -49,4 +49,4 @@ If you want to contribute to this project, feel free to create a pull request. C
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, you can reach out to me via email at [Your Email] or connect with me on [LinkedIn](Your LinkedIn Profile Link).
+For any questions or feedback, you can reach out to me via email at [salildebnath43@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/salil-debnath-8530341a2/).
