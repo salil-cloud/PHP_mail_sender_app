@@ -1,7 +1,5 @@
-<h1> PHP_mail_sender_app</h1>
-Certainly, here's a README document template for your PHPMailer project:
 
-<h2> PHPMailer Feedback Form </h2>
+<h1> PHPMailer Feedback Form </h1>
 
 ## Table of Contents
 1. [Description](#description)
